@@ -238,7 +238,7 @@ const Index = () => {
 
         {/* Message */}
         <p className="text-lg text-muted-foreground max-w-lg mx-auto leading-relaxed">
-          A <span className="text-accent font-semibold">data leak</span> was detected and neutralized before any hackers could exploit it. Our team is actively working on a full fix.
+          A <span className="text-accent font-semibold">Fluxcore Management are deciding to continue or not next update.
         </p>
 
         {/* Status cards */}
@@ -249,7 +249,7 @@ const Index = () => {
               Issue Detected
             </div>
             <p className="text-sm text-muted-foreground">
-              Data leakage vulnerability was identified and contained before exploitation.
+              Fluxcore Might Cease Opereations.
             </p>
           </div>
           <div className="rounded-lg border border-border bg-card p-5 space-y-2">
@@ -258,14 +258,14 @@ const Index = () => {
               ETA: Tomorrow
             </div>
             <p className="text-sm text-muted-foreground">
-              Our engineers are deploying patches. The app will return once everything is secure.
+              
             </p>
           </div>
         </div>
 
         {/* Footer */}
         <p className="text-xs text-muted-foreground pt-2 font-[family-name:var(--font-mono)]">
-          STATUS: <span className="text-accent">PATCHING IN PROGRESS</span> — All user data is safe.
+          STATUS: <span className="text-accent">Meeting Happening. </span> 
         </p>
 
         {/* Mini Game */}
